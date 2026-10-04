@@ -1,0 +1,2 @@
+# premium-journal-bear-001-journal-bearing-turning-shaf
+Tired of losing critical bearing clearance specs in scattered notebooks and spreadsheet cells? Your next precision shaft fit deserves a dedicated digital workshop.  This Notion template organizes all your journal bearing turning data — from initial measurements to final fit — in one central workspace. No more hunting for notes or recalculating tole
